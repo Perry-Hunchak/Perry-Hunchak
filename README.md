@@ -73,7 +73,30 @@
   <summary><b>:brain: &nbsp;Other stuff I'm reading about</b></summary>
   <br/>
 
-![Mongo](https://img.shields.io/badge/MongoDB-4EA94B.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B.svg?&style=flat&logoColor=black)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![ESLint](https://img.shields.io/badge/eslint-3A33D1.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+
+https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white
+https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white
+https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
+https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
+
+
+
+
+
+
+![Prettier](https://img.shields.io/badge/prettier-1A2C34.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
