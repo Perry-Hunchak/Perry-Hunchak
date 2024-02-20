@@ -1,6 +1,6 @@
 ### :🌮: &nbsp;About Me
 <b>:computer: &nbsp;Currently working as a Senior Software Developer </b><br>
-<b>:writing_hand: &nbsp;Always updating learning about the latest frontend developments with React and Angular, and backend with .Net Core and Node </b><br>
+<b>:writing_hand: &nbsp;Always learning about the latest frontend developments with React and Angular, and backend with .Net Core and Node </b><br>
 <b>:hammer_and_wrench: &nbsp;Twenty plus years as Software Developer Consultant </b><br>
 <b>:family_man_woman_girl_girl: &nbsp;Living in Calgary Alberta Canada </b><br>
 
@@ -86,25 +86,22 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-
-https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white
-https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
-https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
-https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
-https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
-https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red
-https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown
-https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
-https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
-
-
+![Joplin](https://img.shields.io/badge/Joplin-1071D3.svg?&style=flat&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logoColor=white)&nbsp;
+![Todoist](https://img.shields.io/badge/Todoist-E44332.svg?&style=flat&logoColor=white)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?&style=flat&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/GIT-E44C30.svg?&style=flat&logoColor=white)&nbsp;\
+![powershell](https://img.shields.io/badge/powershell-5391FE.svg?&style=flat&logoColor=white)&nbsp;
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&style=flat&logoColor=white)&nbsp;
+![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900.svg?&style=flat&logoColor=white)&nbsp;
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=flat&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?&style=flat&logoColor=white)&nbsp;
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=flat&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-323330.svg?&style=flat&logoColor=white)&nbsp;
+![testing](https://img.shields.io/badge/testing%20library-323330.svg?&style=flat&logoColor=white)&nbsp;\
+![mocha](https://img.shields.io/badge/mocha.js-323330.svg?&style=flat&logoColor=white)&nbsp;
+![chai](https://img.shields.io/badge/chai.js-323330.svg?&style=flat&logoColor=white)&nbsp;
+![sinon](https://img.shields.io/badge/sinon.js-323330.svg?&style=flat&logoColor=white)&nbsp;
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
@@ -113,8 +110,8 @@ https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
 ![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
