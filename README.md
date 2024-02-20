@@ -1,7 +1,9 @@
 
 # Perry Hunchak
 
-![ales-nesetril-Im7lZjxeLhg-unsplash](https://github.com/Perry-Hunchak/Perry-Hunchak/assets/34075075/28ce4824-a6b9-471e-ac8e-23b5f3d626f2)
+
+
+![ilya-pavlov-OqtafYT5kTw-unsplash (1)](https://github.com/Perry-Hunchak/Perry-Hunchak/assets/34075075/0deb2c31-042b-4fcb-a3d5-4a6f58685bdb)
 
 
 ### :🌮: &nbsp;About Me
