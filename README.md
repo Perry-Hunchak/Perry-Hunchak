@@ -1,6 +1,9 @@
 
 # Perry Hunchak
 
+![ales-nesetril-Im7lZjxeLhg-unsplash](https://github.com/Perry-Hunchak/Perry-Hunchak/assets/34075075/28ce4824-a6b9-471e-ac8e-23b5f3d626f2)
+
+
 ### :🌮: &nbsp;About Me
 <b>:computer: &nbsp;Currently working as a Senior Software Developer </b><br>
 <b>:writing_hand: &nbsp;Always learning about the latest frontend developments with React and Angular, and backend with .Net Core and Node </b><br>
