@@ -64,8 +64,17 @@
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
+![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120.svg?&style=flat&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120.svg?&style=flat&logoColor=white)&nbsp;\
+![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?&style=flat&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=flat&logoColor=white)&nbsp;
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB.svg?&style=flat&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88.svg?&style=flat&logoColor=white)&nbsp;
+![React_Router](https://img.shields.io/badge/React_Router-CA4245.svg?&style=flat&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?&style=flat&logoColor=white)&nbsp;
+
 
 </details>
 
@@ -90,10 +99,10 @@ https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google
 https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
 https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
-
-
-
-
+https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red
+https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown
+https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red
+https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
 
 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
